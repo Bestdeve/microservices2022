@@ -1,0 +1,9 @@
+package com.bvr.domain;
+
+public class EmployeeAddress {
+
+	public EmployeeAddress() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

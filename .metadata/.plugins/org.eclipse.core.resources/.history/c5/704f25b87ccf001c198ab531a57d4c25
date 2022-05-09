@@ -1,0 +1,20 @@
+package com.bvr;
+
+
+@RestController
+public class MyEndPoints3 {
+
+	public MyEndPoints3() {
+		// TODO Auto-generated constructor stub
+	}
+	
+	@Autowired
+	ExampleProperties props;
+	
+	
+	@RequestMapping("/greetothers")
+	public String greet(@RequestParam String details) {
+		return props.getGreeting() + ": " + details;
+	}
+
+}

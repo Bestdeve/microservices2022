@@ -1,0 +1,9 @@
+package com.bvr.domain;
+
+public class Driver {
+
+	public Driver() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

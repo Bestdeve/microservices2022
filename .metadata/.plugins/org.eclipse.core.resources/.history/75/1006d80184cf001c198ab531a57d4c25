@@ -1,0 +1,9 @@
+package com.bvr.domain;
+
+public class License {
+
+	public License() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

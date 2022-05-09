@@ -1,0 +1,19 @@
+package com.bvr.domain;
+
+@Component
+public class License {
+
+	public License() {
+		// TODO Auto-generated constructor stub
+	}
+	
+	private String number = "1234567c";
+
+	@Override
+	public String toString() {
+		return "License [number=" + number + "]";
+	}
+	
+	
+
+}

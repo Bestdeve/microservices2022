@@ -1,0 +1,9 @@
+package com.bvr;
+
+public class MyEndPoints {
+
+	public String myString() {
+		return "First MicroService using Spring Boot";
+		
+	}
+}

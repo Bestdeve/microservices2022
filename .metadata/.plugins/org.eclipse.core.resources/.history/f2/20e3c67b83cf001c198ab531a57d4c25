@@ -1,0 +1,15 @@
+package com.bvr.domain;
+
+public class Ferari implements Car {
+
+	public Ferari() {
+		// TODO Auto-generated constructor stub
+	}
+
+	@Override
+	public void getCarName() {
+		// TODO Auto-generated method stub
+
+	}
+
+}

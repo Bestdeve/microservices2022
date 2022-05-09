@@ -1,0 +1,11 @@
+package com.bvr.config;
+
+@Configuration
+@ComponentScan("com.bvr")
+public class AppConfig {
+
+	public AppConfig() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

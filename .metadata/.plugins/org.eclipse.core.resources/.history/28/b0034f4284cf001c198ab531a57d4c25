@@ -1,0 +1,9 @@
+package com.bvr.domain;
+
+public class Performer {
+
+	public Performer() {
+		// TODO Auto-generated constructor stub
+	}
+
+}
