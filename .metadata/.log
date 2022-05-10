@@ -1863,3 +1863,186 @@ java.util.concurrent.TimeoutException
 
 !ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-10 12:10:02.534
 !MESSAGE executing callback sts4.classpath.SyrsKdWt SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-10 15:11:49.845
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-10 15:11:49.847
+!MESSAGE classpath=1 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-10 15:11:49.847
+!MESSAGE buffering callback sts4.classpath.SyrsKdWt database-jpa-service-5 false 1
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-10 15:11:49.848
+!MESSAGE executing callback sts4.classpath.SyrsKdWt 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-10 15:11:51.396
+!MESSAGE executing callback sts4.classpath.SyrsKdWt SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-10 15:11:51.397
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-10 15:11:51.403
+!MESSAGE classpath=56 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-10 15:11:51.407
+!MESSAGE buffering callback sts4.classpath.SyrsKdWt database-jpa-service-5 false 56
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-10 15:11:51.408
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-10 15:11:51.414
+!MESSAGE classpath=56 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-10 15:11:51.418
+!MESSAGE buffering callback sts4.classpath.SyrsKdWt database-jpa-service-5 false 56
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-10 15:11:51.419
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-10 15:11:51.431
+!MESSAGE classpath=56 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-10 15:11:51.437
+!MESSAGE buffering callback sts4.classpath.SyrsKdWt database-jpa-service-5 false 56
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-10 15:11:51.441
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-10 15:11:51.450
+!MESSAGE classpath=56 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-10 15:11:51.454
+!MESSAGE buffering callback sts4.classpath.SyrsKdWt database-jpa-service-5 false 56
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-10 15:11:51.455
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-10 15:11:51.461
+!MESSAGE classpath=56 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-10 15:11:51.464
+!MESSAGE buffering callback sts4.classpath.SyrsKdWt database-jpa-service-5 false 56
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-10 15:11:51.465
+!MESSAGE executing callback sts4.classpath.SyrsKdWt 5 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-10 15:11:51.673
+!MESSAGE executing callback sts4.classpath.SyrsKdWt SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-10 15:11:53.928
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-10 15:11:53.933
+!MESSAGE classpath=56 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-10 15:11:53.936
+!MESSAGE buffering callback sts4.classpath.SyrsKdWt database-jpa-service-5 false 56
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-10 15:11:53.937
+!MESSAGE executing callback sts4.classpath.SyrsKdWt 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-10 15:11:53.964
+!MESSAGE executing callback sts4.classpath.SyrsKdWt SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-10 15:13:06.929
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-10 15:13:06.933
+!MESSAGE classpath=74 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-10 15:13:06.936
+!MESSAGE buffering callback sts4.classpath.SyrsKdWt database-jpa-service-5 false 74
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-10 15:13:06.937
+!MESSAGE executing callback sts4.classpath.SyrsKdWt 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-10 15:13:06.969
+!MESSAGE executing callback sts4.classpath.SyrsKdWt SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-10 15:13:13.866
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-10 15:13:13.871
+!MESSAGE classpath=74 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-10 15:13:13.875
+!MESSAGE buffering callback sts4.classpath.SyrsKdWt database-jpa-service-5 false 74
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-10 15:13:13.876
+!MESSAGE executing callback sts4.classpath.SyrsKdWt 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-10 15:13:13.899
+!MESSAGE executing callback sts4.classpath.SyrsKdWt SUCCESS [done]
+
+!ENTRY org.eclipse.lsp4e 2 0 2022-05-10 15:35:13.840
+!MESSAGE Timeout waiting for data to generate LS hover
+!STACK 0
+java.util.concurrent.TimeoutException
+	at java.base/java.util.concurrent.CompletableFuture.timedGet(CompletableFuture.java:1960)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2095)
+	at org.eclipse.lsp4e.jdt.LSJavaHoverProvider.getHoverInfo2(LSJavaHoverProvider.java:70)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:163)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:130)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
+	at org.eclipse.jface.text.TextViewerHoverManager$1.run(TextViewerHoverManager.java:155)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-10 15:36:32.074
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-10 15:36:32.081
+!MESSAGE classpath=88 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-10 15:36:32.086
+!MESSAGE buffering callback sts4.classpath.SyrsKdWt database-jpa-service-5 false 88
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-10 15:36:32.087
+!MESSAGE executing callback sts4.classpath.SyrsKdWt 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-10 15:36:32.129
+!MESSAGE executing callback sts4.classpath.SyrsKdWt SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-10 15:42:28.238
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-10 15:42:28.239
+!MESSAGE classpath=69 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-10 15:42:28.242
+!MESSAGE buffering callback sts4.classpath.SyrsKdWt database-jpa-service-5 false 69
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-10 15:42:28.243
+!MESSAGE executing callback sts4.classpath.SyrsKdWt 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-10 15:42:28.281
+!MESSAGE executing callback sts4.classpath.SyrsKdWt SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-10 15:43:55.879
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-10 15:43:55.882
+!MESSAGE classpath=69 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-10 15:43:55.886
+!MESSAGE buffering callback sts4.classpath.SyrsKdWt database-jpa-service-5 false 69
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-10 15:43:55.887
+!MESSAGE executing callback sts4.classpath.SyrsKdWt 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-10 15:43:55.918
+!MESSAGE executing callback sts4.classpath.SyrsKdWt SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-10 15:44:25.352
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-10 15:44:25.357
+!MESSAGE classpath=69 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-10 15:44:25.363
+!MESSAGE buffering callback sts4.classpath.SyrsKdWt database-jpa-service-5 false 69
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-10 15:44:25.363
+!MESSAGE executing callback sts4.classpath.SyrsKdWt 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-10 15:44:25.396
+!MESSAGE executing callback sts4.classpath.SyrsKdWt SUCCESS [done]
