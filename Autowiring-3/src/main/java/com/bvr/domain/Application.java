@@ -15,6 +15,4 @@ public class Application {
 		return "Application [user=" + user + "]";
 	}
 	
-	
-	
 }
