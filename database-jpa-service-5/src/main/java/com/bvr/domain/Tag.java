@@ -1,49 +1,37 @@
 package com.bvr.domain;
 
+import javax.persistence.*;
 import java.util.List;
-
-import javax.persistence.Entity;
-import javax.persistence.GeneratedValue;
-import javax.persistence.GenerationType;
-import javax.persistence.Id;
-import javax.persistence.ManyToMany;
 
 @Entity
 public class Tag {
+    @Id
+    @Column(name = "id", nullable = false)
+    @GeneratedValue(strategy = GenerationType.IDENTITY)
+    private Long id;
 
-	
-	@Id
-	@GeneratedValue(strategy = GenerationType.AUTO)
-	private long id;
-	
-	private String name;
-	
-	@ManyToMany(mappedBy = "tags")
-	private List<Note> notes;
+    private String name;
 
-	public long getId() {
-		return id;
-	}
+    @ManyToMany(mappedBy = "tags")
+    private List<Note> notes;
 
-	public void setId(long id) {
-		this.id = id;
-	}
+    public Long getId() {
+        return id;
+    }
 
-	public String getName() {
-		return name;
-	}
+    public String getName() {
+        return name;
+    }
 
-	public void setName(String name) {
-		this.name = name;
-	}
+    public void setName(String name) {
+        this.name = name;
+    }
 
-	public List<Note> getNotes() {
-		return notes;
-	}
+    public List<Note> getNotes() {
+        return notes;
+    }
 
-	public void setNotes(List<Note> notes) {
-		this.notes = notes;
-	}
-	
-	
+    public void setNotes(List<Note> notes) {
+        this.notes = notes;
+    }
 }
